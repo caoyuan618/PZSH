@@ -33,6 +33,10 @@ Two mainstream zero-shot retrieval datasets are supported, which should be place
 - Contains 200 bird categories (150 seen classes, 50 unseen classes)
 - Prerequisites: Image folder, 312-dimensional attribute vectors, split files (.txt)
 
+Data set download link: https://pan.baidu.com/s/1JBlRiE9wF6bELNLSlRL4tg?pwd=6pxg
+
+Extraction code: 6pxg
+
 
 ## Core Code File Description
 
