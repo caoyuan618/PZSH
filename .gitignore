@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.idea/
+.DS_Store
+outputs/
+logs/
+save/
+*.npy
+*.pth
+*.ckpt
+BLIP_main/
+T2I-Adapter-SD/
